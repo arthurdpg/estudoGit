@@ -1,2 +1,3 @@
-Quinto arquivo
+﻿Quinto arquivo
 Arquivo 5 alterado
+Arquivo alterado na feature-arquivo6
